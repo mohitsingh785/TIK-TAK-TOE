@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793036759367",
+    "project_id": "tic-tak-tao-84032",
+    "storage_bucket": "tic-tak-tao-84032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793036759367:android:92d198e8445b1f9011ac62",
+        "android_client_info": {
+          "package_name": "com.mohit.tictaktao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNu0S4s-gpkCwuu-sPJXdlvejK0rqKZvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/dark_blue"
+    tools:context=".onevsone.select_page">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Player names"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+
+        />
+    <EditText
+        android:id="@+id/edt_player1"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="start"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:padding="15dp"
+        android:drawablePadding="5dp"
+        android:layout_marginTop="70dp"
+
+
+        android:background="@drawable/bg_edittext"
+        android:hint="Player One"
+        android:drawableStart="@drawable/baseline_circle_24"
+        android:textColorHint="@color/white"
+        android:layout_gravity="center"
+        />
+
+    <EditText
+        android:id="@+id/edt_player2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="start"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:padding="15dp"
+        android:drawablePadding="5dp"
+        android:layout_marginTop="30dp"
+
+
+        android:background="@drawable/bg_edittext"
+        android:hint="Player Two"
+        android:drawableStart="@drawable/cross_24"
+        android:textColorHint="@color/white"
+        android:layout_gravity="center"
+        />
+    <LinearLayout
+        android:background="@drawable/bg_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <RadioGroup
+            android:id="@+id/radioGroupMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radioButton5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5"
+                android:textColor="@color/white"/>
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/white"/>
+
+            <RadioButton
+                android:id="@+id/radioButton10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10"
+                android:layout_marginStart="16dp"
+                android:textColor="@color/white"/>
+        </RadioGroup>
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Start Game"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/button_selector"
+        android:textColor="@color/white"
+
+        />
+
+</LinearLayout>

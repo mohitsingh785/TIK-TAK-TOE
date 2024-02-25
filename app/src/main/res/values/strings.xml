@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">XO Victory Square</string>
+    //Headings
+    <!-- Onboarding Screens for Tic Tac Toe App -->
+    <string name="heading_one">Welcome to Tic Tac Toe</string>
+    <string name="heading_two">Game Modes</string>
+    <string name="heading_three">Level Up &amp; Rewards</string>
+    <string name="heading_fourth">Connect &amp; Compete</string>
+
+    <!-- Onboarding Screen Descriptions -->
+    <string name="desc_one">Discover the classic game of Tic Tac Toe with a modern twist. Enjoy a seamless gaming experience tailored for fun and strategy.</string>
+    <string name="desc_two">Choose your challenge: play against a friend in 1v1 mode, test your skills against the CPU, or dive into the online arena for real-time battles.</string>
+    <string name="desc_three">Advance through levels from beginner to expert. Earn coins with each victory and climb the leaderboard to prove your mastery.</string>
+    <string name="desc_fourth">Experience online mode with an integrated chat feature. Connect with opponents, share strategies, and make every match memorable.</string>
+</resources>
