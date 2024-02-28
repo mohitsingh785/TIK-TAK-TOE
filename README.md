@@ -35,9 +35,6 @@ Welcome to **Tic Tac Toe Supreme**, an enhanced version of the classic game 🕹
 - **Chat Functionality**: Talk with your opponents in real-time as you play, making each match engaging and social.
 - **Coins and Level System**: Improve your rank by winning games. Higher levels unlock more challenging opponents and exclusive rewards.
 
-## Video Demonstration 🎬
-
-For a detailed look at gameplay and features, check out our video demonstration [here]. (Include a link to your video hosted on a platform like YouTube or Vimeo.)
 
 ## Support 🆘
 
