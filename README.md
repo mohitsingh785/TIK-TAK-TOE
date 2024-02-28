@@ -1,6 +1,4 @@
-Certainly! Here's the adjusted README text for "Tic Tac Toe Supreme", ensuring that the markdown syntax for bold text is correctly applied without asterisks causing formatting issues.
 
----
 
 # Tic Tac Toe Supreme 🎮
 
@@ -49,6 +47,4 @@ Encountered an issue? Have suggestions? Contact us at [your_contact_information]
 
 Interested in contributing to Tic Tac Toe Supreme? We welcome contributions of all kinds from the community. Please reach out to us with your ideas or submit a pull request to our repository.
 
----
 
-Make sure to replace placeholders like "[your_contact_information]" and "[here]" with your actual contact information and video link. This README, formatted with markdown syntax, is ready for use in your project documentation to make it accessible, engaging, and informative.
