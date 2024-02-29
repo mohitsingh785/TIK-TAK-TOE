@@ -38,7 +38,7 @@ Welcome to **Tic Tac Toe Supreme**, an enhanced version of the classic game 🕹
 
 ## Support 🆘
 
-Encountered an issue? Have suggestions? Contact us at [your_contact_information] for support and feedback.
+Encountered an issue? Have suggestions? Contact us at mohitsinghchandel785@gmail.com for support and feedback.
 
 ## Contribute 🤝
 
